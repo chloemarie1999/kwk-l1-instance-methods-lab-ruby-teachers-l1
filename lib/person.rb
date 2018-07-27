@@ -1,6 +1,6 @@
 # person.rb
 class Person 
-  def talk=
+  def talk=(talk)
   puts "Hello World!"
   end
   def @walk
